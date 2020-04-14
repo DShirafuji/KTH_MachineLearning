@@ -1,4 +1,4 @@
-# KTH_MachineLearning
+# Machine Learning Course in KTH
 
 Here I uploaded my codes and reports for Machine Learning Course 2019.
 
