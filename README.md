@@ -4,7 +4,7 @@ Here I uploaded my codes and reports for Machine Learning Course 2019.
 These codes were implemented with Python but WITHOUT any useful libraries.
 Therefore, it might be useful to implement Machine Learning algorithms with C.
 
-**Advice to use**
+**Comments To USE**
 - ALL reports and comments on codes are wrtten in ENGLISH.
 - If you want to use my codes or reports (of course not for your classes in KTH lol), please let me know.
 - ALL reports were written by me and Takuya Nishi.
