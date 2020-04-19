@@ -12,7 +12,7 @@ Therefore, it might be useful to implement Machine Learning algorithms with C.
 - ALL materials for reports were made by KTH Machine Learning course teachers. (If there is any problem to upload on github, please let me know. I checked whether the files can be uploaded AS FAR AS I CAN, but missing sometimes happens.)
 
 # Topics
-1. [Decision Trees]{https://github.com/DShirafuji/KTH_MachineLearning/tree/master/LAB%201}
+1. [Decision Trees](https://github.com/DShirafuji/KTH_MachineLearning/tree/master/LAB%201)
 
 2. SVMs
 
