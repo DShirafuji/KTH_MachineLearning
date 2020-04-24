@@ -14,7 +14,7 @@ Therefore, it might be useful to implement Machine Learning algorithms with C.
 # Topics
 1. [Decision Trees](https://github.com/DShirafuji/KTH_MachineLearning/tree/master/LAB%201)
 
-2. SVMs
+2. [SVMs](https://github.com/DShirafuji/KTH_MachineLearning/tree/master/LAB%201)
 
-3. Bayesian Learning
+3. [Bayesian Learning](https://github.com/DShirafuji/KTH_MachineLearning/tree/master/LAB%201)
 
